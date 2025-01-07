@@ -1,0 +1,6 @@
+requests
+qrcode
+python-dotenv
+oauthlib
+requests-oauthlib
+Pillow
